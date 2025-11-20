@@ -1,0 +1,37 @@
+{
+  "startingState": "0",
+  "0": {
+    "isTerminatingState": false,
+    "{": [
+      "1"
+    ]
+  },
+  "1": {
+    "isTerminatingState": false,
+    "epsilon": [
+      "3"
+    ]
+  },
+  "3": {
+    "isTerminatingState": false,
+    "a": [
+      "4"
+    ]
+  },
+  "4": {
+    "isTerminatingState": false,
+    "epsilon": [
+      "5"
+    ]
+  },
+  "5": {
+    "isTerminatingState": false,
+    "}": [
+      "2"
+    ]
+  },
+  "2": {
+    "isTerminatingState": true,
+    "epsilon": []
+  }
+}
